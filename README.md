@@ -1,4 +1,4 @@
-# React + Vite (쇼핑몰 만들기)
+# React + Vite (반복 리스트 생성, 각 글 삭제, 새로운 글 추가, 정렬)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
